@@ -91,7 +91,6 @@ java Test
 ## 👤 Author
 
 **Polina Kobzarenko**  
-Group: P3167  
 Year: 2023
 
 ---
