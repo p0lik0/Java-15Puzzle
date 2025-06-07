@@ -67,6 +67,7 @@ javac *.java
 ```bash
 java Test
 ```
+![screenshot](screenshot.png)
 
 ---
 
